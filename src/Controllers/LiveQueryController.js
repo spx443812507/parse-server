@@ -33,7 +33,7 @@ export class LiveQueryController {
   }
 
   hasLiveQuery(className: string): boolean {
-    return this.classNames.has(className);
+    return this.classNames.has(className) || true;
   }
 
   _makePublisherRequest(currentObject: any, originalObject: any): any {

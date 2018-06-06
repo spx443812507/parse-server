@@ -1,0 +1,15 @@
+{
+  "port": 1338,
+  "appId": "myAppId",
+  "masterKey": "myMasterKey",
+  "appName": "giantgo-parse",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse",
+  "liveQueryServerOptions": {
+    "redisURL": "redis://user:sino@123@localhost:6379/3"
+  },
+  "liveQuery": {
+    "classNames": [
+    ],
+    "redisURL": "redis://user:sino@123@localhost:6379/3"
+  }
+}
