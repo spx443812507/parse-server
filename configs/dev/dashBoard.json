@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "serverURL": "http://localhost:1338/parse",
+      "serverURL": "http://dev-realtime.smarket.net.cn/parse",
       "appId": "myAppId",
       "masterKey": "myMasterKey",
       "appName": "giantgo-parse"

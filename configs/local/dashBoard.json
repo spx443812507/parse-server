@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://localhost:3008/parse",
+      "appId": "myAppId",
+      "masterKey": "myMasterKey",
+      "appName": "giantgo-parse"
+    }
+  ]
+}
